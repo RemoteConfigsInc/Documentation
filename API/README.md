@@ -1,4 +1,4 @@
-##### [Documentation](../README.md)
+##### [Back to Documentation](../README.md)
 # API Documentation ⚙️
 ### [API Testing Page](http://api.remoteconfigs.com)
 
