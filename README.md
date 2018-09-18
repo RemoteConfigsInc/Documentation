@@ -6,6 +6,6 @@
 
 
 ### [General Documentation](./General/README.md)
-   #### Account
+* Account
    * [Sign Up](./General/Account/SignUp.md)
 
