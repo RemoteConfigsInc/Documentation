@@ -1,4 +1,6 @@
-## [🏠 Home](./README.md)
+##### [🏠 API Documentation](./README.md)
+
+### Testing
 
 The [API Testing Page](http://api.remoteconfigs.com) allows users to test the requests and responses of the RemoteConfigs API. 
 

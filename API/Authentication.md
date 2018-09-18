@@ -1,4 +1,6 @@
-## [🏠 Home](./README.md)
+##### [🏠 API Documentation](./README.md)
+
+### Authentication
 
 In order to use the API of RemoteConfigs you will need to generate an API key. This key will be used to authenticate your requests. The API Key is to be sent in the header of your request with the key `apikey`.
 
