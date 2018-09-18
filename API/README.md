@@ -1,4 +1,5 @@
 # API Documentation ⚙️
-### [RemoteConfigs API Website](http://api.remoteconfigs.com)
+### [API Testing Page](http://api.remoteconfigs.com)
 
-#### [Authentication](./Authentication.md)
+* [Authentication](./Authentication.md)
+* [Testing](./Testing.md)

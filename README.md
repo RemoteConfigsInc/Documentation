@@ -1,5 +1,4 @@
 # Documentation 📚
-### [RemoteConfigs Website](http://remoteconfigs.com)
 
 ### [API Documentation](./API/README.md)
 * [API Authentication](./API/Authentication.md)
