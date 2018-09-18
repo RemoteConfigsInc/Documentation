@@ -1,9 +1,8 @@
-# API Documentation ⚙️
+# Documentation 📚
 ### [RemoteConfigs Website](http://remoteconfigs.com)
 
-#### [Authentication](./Authentication.md)
-#### [About Us](./About.md)
-#### [About Us](./About.md)
-#### [About Us](./About.md)
-#### [About Us](./About.md)
-#### [About Us](./About.md)
+### [API Documentation](./API-Docs/README.md)
+#### [API Authentication](./API-Docs/Authentication.md)
+
+
+### [MVC Documentation](./MVC-Docs/README.md)
