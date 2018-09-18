@@ -1,4 +1,4 @@
-##### [🏠 API Documentation](./README.md)
+##### [API Documentation](./README.md)
 
 ### Authentication
 

@@ -1,4 +1,5 @@
+##### [Documentation](../README.md)
 # General Documentation ⚙️
 
-##### Account
-* [Sign Up](./SignUp.md)
+#### Account
+* [Sign Up](./Account/SignUp.md)

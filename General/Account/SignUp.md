@@ -1,5 +1,5 @@
-##### [🏠 General Documentation](../README.md)
+##### [General Documentation](../README.md)
 
-## Signing Up ️👤
+### Signing Up ️👤
 
 Hello
