@@ -1,7 +1,4 @@
-<h1 align="center">RemoteConfigs</h1>
-<div align="center">
-  <strong>Centralized App Configuration Management</strong>
-</div>
+<img src="https://remoteconfigs.com/src/img/Remoteconfig_final.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;">
 <div align="center">
   Take the pain out of managing your app configurations scattered all over the Internet. With RemoteConfigs, you can manage all your app configurations from a central portal and reference them in your applications using our simple REST API or any of our available libraries.
 </div>
@@ -21,14 +18,14 @@
 </div>
 
 <div align="center">
-  <sub>RemoteConfigs, a subsidiary of 
-  <a href="http://redrubyit.co.za">Red Ruby IT</a>.
+  <sub>RemoteConfigs, Inc., a subsidiary of 
+  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a>.
 </div>
 
 # Table of Contents
 * [API](#api)
-    * [Authentication](#api-authentication)
-    * [Testing and Available Endpoints](#api-testing)
+    * [Authentication](#authentication)
+    * [Testing and Available Endpoints](#testing-and-available-endpoints)
 * [General](#general)
     * [Account](#account)
         * [Sign In](#sign-in)
@@ -37,9 +34,9 @@
         * [Billing](#billing)
         * [Profile](#profile)
         * [Deactivate Account](#deactivate-account)
-    * [Configurations](#configs)
-        * [Creating a Config](#create-config)
-        * [Managing a Config](#manage-config)
+    * [Configurations](#configurations)
+        * [Creating a Config](#creating-a-config)
+        * [Managing a Config](#managing-a-config)
 
 # API
 ## Authentication
