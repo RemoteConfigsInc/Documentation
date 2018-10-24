@@ -19,7 +19,7 @@
 
 <div align="center">
   <sub>RemoteConfigs, Inc., a subsidiary of 
-  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a>
+  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a></sub>
 </div>
 
 # Table of Contents
