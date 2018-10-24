@@ -1,4 +1,4 @@
-<img src="https://remoteconfigs.com/src/img/Remoteconfig_final.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;">
+<img src="https://remoteconfigs.com/src/img/Remoteconfig_final.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;"/>
 <div align="center">
   Take the pain out of managing your app configurations scattered all over the Internet. With RemoteConfigs, you can manage all your app configurations from a central portal and reference them in your applications using our simple REST API or any of our available libraries.
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <sub>RemoteConfigs, Inc., a subsidiary of 
-  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a>
+  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a></sub>
 </div>
 
 # Table of Contents
@@ -57,14 +57,14 @@ e.g. `"apikey" : "RC_9e0bbb4cada16f688da56506b561d1e5928e0c6c"`
 
 To generate an API key, go to the **API Keys** page from your Dashboard (you will need to be signed into RemoteConfigs).
 
-![API Keys Page](/Images/ApiKeysPage.png "ApiKeysPage")
+![API Keys Page](https://raw.githubusercontent.com/RemoteConfigsInc/Documentation/master/Images/ApiKeysPage.png "ApiKeysPage")
 
 ## Testing and Available Endpoints
 The <a href="https://api.remoteconfigs.com">API Testing Page</a> allows users to test the requests and responses of the RemoteConfigs API endpoints.
 
 Here is an example of the endpoint that will get all your configurations and their settings:
 
-![Get All Configurations Endpoint](/Images/ApiSwaggerGetAllConfigs.png "Get All Configurations")
+![Get All Configurations Endpoint](https://raw.githubusercontent.com/RemoteConfigsInc/Documentation/master/Images/ApiSwaggerGetAllConfigs.png "Get All Configurations")
 
 Clicking on the `/Configuration` row will expand to show more details about the endpoint.
 
