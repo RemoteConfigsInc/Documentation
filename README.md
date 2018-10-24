@@ -101,10 +101,27 @@ Your password has now been changed and can be used to sign in.
 ### Billing
 
 ### Profile
+If you would like to make changes to your profile, click on the cog in the top-right corner of the page after you have signed in, then click on `Settings`.
+By default, you will be on the Profile tab, from there you are currently only able to make the following changes:
 
-### Deactivate Account
+* Change your First and Last names
+* Change your password
+* Deactivate your RemoteConfigs account
+
+### Close Account
+**WARNING** **_Only  deactivate your account when you or any of your applications make use of RemoteConfigs. You will lose your API keys and all information associated with your account._**
+
+To close your account, first go to Settings by clicking on the cof in the top-right corner of any page after you have signed in.
+When you are on the Settings page, you can close your account by clicking the `Close Account` button and confirming that you want to close your account.
 
 ## Configurations
 ### Creating a Config
+There are 2 ways to create a config:
+
+1. From the Dashboard
+    * Click the `Create` button on the **New Configuration** card.
+    
+
+2. Using the API
 
 ### Managing a Config
