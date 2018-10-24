@@ -33,7 +33,7 @@
         * [Forgot Password](#forgot-password)
         * [Billing](#billing)
         * [Profile](#profile)
-        * [Deactivate Account](#deactivate-account)
+        * [Close Account](#close-account)
     * [Configurations](#configurations)
         * [Creating a Config](#creating-a-config)
         * [Managing a Config](#managing-a-config)
