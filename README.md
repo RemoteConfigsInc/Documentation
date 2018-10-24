@@ -19,7 +19,7 @@
 
 <div align="center">
   <sub>RemoteConfigs, Inc., a subsidiary of 
-  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a>.
+  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a>
 </div>
 
 # Table of Contents
@@ -37,6 +37,16 @@
     * [Configurations](#configurations)
         * [Creating a Config](#creating-a-config)
         * [Managing a Config](#managing-a-config)
+
+# Contact Us
+There are numerous ways for you to get in contact with us. Below are suggested contact methods given the nature of your query:
+
+1. 🗫 <a href="https://forum.remoteconfigs.com">RemoteConfigs Forum</a>
+    * Our forum is a great place to submit ideas, provide feedback, ask questions or to get assistance from other users.
+2. 📧 Sending an Email to <a href="mailto: support@remoteconfigs.com">support@remoteconfigs.com</a>
+    * We're pretty fast on email support 😉
+3. 💬 <a href="https://remoteconfigs.com">Live Chat</a>
+    * If you prefer a live chat with someone from our team, feel free to send us a message from the live chat found in the bottom-right corner of the home page of RemoteConfigs. Live chat is not available 24/7.
 
 # API
 ## Authentication
@@ -75,8 +85,18 @@ Follow these steps to get started with RemoteConfigs for the first time:
 See [Sign In](#sign-in) for more details.
 
 ### Sign In
+Signing into RemoteConfigs is easy, all you need is the email address you used to sign up with and your password. If for any reason you are unable to sign in, please [Contact Us](#contact-us).
 
 ### Forgot Password
+If, for some mysterious reason, you are unable to remember your password and would like to reset it, all you need to do is follow these steps:
+
+1. Go to the <a href="https://remoteconfigs.com/Home/ForgotPassword">Forgot Password Page</a> or on the Sign In page, click the `Forgot your Password?` link at the bottom of the form.
+2. On the Forgot Password page, enter your email address and click the `Send Reset Email` button.
+3. Check your mailbox for an email from RemoteConfigs.
+4. Follow the link in the email and enter a new password.
+5. Click the `Reset Password` button.
+
+Your password has now been changed and can be used to sign in.
 
 ### Billing
 
