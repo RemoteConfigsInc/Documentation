@@ -113,7 +113,7 @@ By default, you will be on the Profile tab, from there you are currently only ab
 * Deactivate your RemoteConfigs account
 
 ### Close Account
-**WARNING** **_Only  deactivate your account when you or any of your applications make use of RemoteConfigs. You will lose your API keys and all information associated with your account._**
+**WARNING** **_Only close your account when you are certain that there are no applications that make use of your RemoteConfigs configurations. You will lose your API keys and all information associated with your account._**
 
 To close your account, first go to Settings by clicking on the cof in the top-right corner of any page after you have signed in.
 When you are on the Settings page, you can close your account by clicking the `Close Account` button and confirming that you want to close your account.
