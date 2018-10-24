@@ -49,6 +49,10 @@ There are numerous ways for you to get in contact with us. Below are suggested c
     * If you prefer a live chat with someone from our team, feel free to send us a message from the live chat found in the bottom-right corner of the home page of RemoteConfigs. Live chat is not available 24/7.
 
 # API
+The base API URL is:
+```
+api.remoteconfigs.com
+```
 ## Authentication
 In order to use the of RemoteConfigs, you will need to generate an API key. The API key is used to authenticate your requests.
 **The API key is sent in the header of your request with the key `apikey`**
@@ -119,9 +123,14 @@ When you are on the Settings page, you can close your account by clicking the `C
 There are 2 ways to create a config:
 
 1. From the Dashboard
-    * Click the `Create` button on the **New Configuration** card.
-    
+    1.1 Click the `Create` button on the **New Configuration** card.
+    1.2 Give your config a name and short description.
+    1.3 Add the settings for your config. A config's settings is a list of key-value pairs.
+    1.4 Once you are done adding settings to the config, click the `Create Configuration` button. 
 
 2. Using the API
+    * see the [API](#api) docs for more information on authenticating and the available endpoints.
 
 ### Managing a Config
+To manage a config, click on the `Manage Configuration` button for the config you want to manage, on the Dashboard.
+You will now be able to make changes to the configuration.
