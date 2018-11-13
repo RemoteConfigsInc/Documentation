@@ -22,6 +22,8 @@
   <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a></sub>
 </div>
 
+<br>
+
 ![Build status](https://redrubyit.visualstudio.com/RemoteConfigs/_apis/build/status/RemoteConfigs%20-%20Staging%20-%20CI)
 ![Deployment status](https://redrubyit.vsrm.visualstudio.com/_apis/public/Release/badge/5bf414cb-f023-4c36-aba0-c3af1dc61ea1/2/2)
 
