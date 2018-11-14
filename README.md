@@ -1,6 +1,6 @@
 <img src="https://remoteconfigs.com/src/img/Remoteconfig_final.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;"/>
 <div align="center">
-  Take the pain out of managing your app configurations scattered all over the Internet. With RemoteConfigs, you can manage all your app configurations from a central portal and reference them in your applications using our simple REST API or any of our available libraries.
+  Take the pain out of managing all your app configurations that are scattered all over the Internet. With RemoteConfigs, you can manage all your app configurations from a central dashboard and reference them in your applications using our simple REST API.
 </div>
 
 <br />
@@ -11,15 +11,14 @@
       Website
     </a>
     <span> | </span>
-    <a href="https://forum.remoteconfigs.com">
+    <a href="https://community.remoteconfigs.com">
       Forum
     </a>
   </h3>
 </div>
 
 <div align="center">
-  <sub>RemoteConfigs, Inc., a subsidiary of 
-  <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a></sub>
+  <sub>RemoteConfigs, Inc. is a <a href="http://redrubyit.co.za">Red Ruby IT (Pty) Ltd.</a> company.</sub>
 </div>
 
 <br>
@@ -46,8 +45,8 @@
 # Contact Us
 There are numerous ways for you to get in contact with us. Below are suggested contact methods given the nature of your query:
 
-1. 🗫 <a href="https://forum.remoteconfigs.com">RemoteConfigs Forum</a>
-    * Our forum is a great place to submit ideas, provide feedback, ask questions or to get assistance from other users.
+1. 🗫 <a href="https://community.remoteconfigs.com">RemoteConfigs Community</a>
+    * Our community is a great place to submit ideas, provide feedback, ask questions or to get assistance from other users.
 2. 📧 Sending an Email to <a href="mailto: support@remoteconfigs.com">support@remoteconfigs.com</a>
     * We're pretty fast on email support 😉
 3. 💬 <a href="https://remoteconfigs.com">Live Chat</a>
@@ -62,11 +61,9 @@ api.remoteconfigs.com
 In order to use the of RemoteConfigs, you will need to generate an API key. The API key is used to authenticate your requests.
 **The API key is sent in the header of your request with the key `apikey`**
 
-e.g. `"apikey" : "RC_9e0bbb4cada16f688da56506b561d1e5928e0c6c"`
+e.g. `"apikey" : "RC_a16eff3197f678ad543c55c99b9a5eb71926c7ca"`
 
 To generate an API key, go to the **API Keys** page from your Dashboard (you will need to be signed into RemoteConfigs).
-
-![API Keys Page](https://raw.githubusercontent.com/RemoteConfigsInc/Documentation/master/Images/ApiKeysPage.png "ApiKeysPage")
 
 ## Testing and Available Endpoints
 The <a href="https://api.remoteconfigs.com">API Testing Page</a> allows users to test the requests and responses of the RemoteConfigs API endpoints.
@@ -108,6 +105,10 @@ If, for some mysterious reason, you are unable to remember your password and wou
 Your password has now been changed and can be used to sign in.
 
 ### Billing
+To view your billing information, go to Settings, then click on the Billing tab.
+Under the **Payment Methods** section you'll see your credit and debit cards as well as which card is your default. You are also able to add and remove cards.
+
+Under the **Billing History** section you'll see a list of invoices along with their statuses. You are also able to view and download your invoices.
 
 ### Profile
 If you would like to make changes to your profile, click on the cog in the top-right corner of the page after you have signed in, then click on `Settings`.
