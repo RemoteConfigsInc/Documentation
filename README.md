@@ -12,7 +12,7 @@
     </a>
     <span> | </span>
     <a href="https://community.remoteconfigs.com">
-      Forum
+      Community
     </a>
   </h3>
 </div>
