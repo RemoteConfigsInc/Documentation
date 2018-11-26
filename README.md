@@ -54,6 +54,7 @@ There are numerous ways for you to get in contact with us. Below are suggested c
 
 # API
 Our API documentation can be found at: <a href="https://api.remoteconfigs.com" target="_blank">https://api.remoteconfigs.com</a>
+From there you are able to test the API endpoints with your API key.
 
 The base API URL is:
 ```
