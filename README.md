@@ -45,11 +45,9 @@
 # Contact Us
 There are numerous ways for you to get in contact with us. Below are suggested contact methods given the nature of your query:
 
-1. 🗫 <a href="https://community.remoteconfigs.com">RemoteConfigs Community</a>
-    * Our community is a great place to submit ideas, provide feedback, ask questions or to get assistance from other users.
-2. 📧 Sending an Email to <a href="mailto: support@remoteconfigs.com">support@remoteconfigs.com</a>
+1. 📧 Sending an Email to <a href="mailto: support@remoteconfigs.com">support@remoteconfigs.com</a>
     * We're pretty fast on email support 😉
-3. 💬 <a href="https://remoteconfigs.com">Live Chat</a>
+2. 💬 <a href="https://remoteconfigs.com">Live Chat</a>
     * If you prefer a live chat with someone from our team, feel free to send us a message from the live chat found in the bottom-right corner of the home page of RemoteConfigs. Live chat is not available 24/7.
 
 # API
