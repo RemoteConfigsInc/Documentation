@@ -35,8 +35,7 @@
         * [Profile](#profile)
         * [Close Account](#close-account)
     * [Configurations](#configurations)
-        * [Creating a Config](#creating-a-config)
-        * [Managing a Config](#managing-a-config)
+        * [Create and Manage Configs](#create-and-manage-configs)
 
 # Contact Us
 There are numerous ways for you to get in contact with us. Below are suggested contact methods given the nature of your query:
@@ -122,7 +121,7 @@ To close your account, first go to Settings by clicking on the cof in the top-ri
 When you are on the Settings page, you can close your account by clicking the **Close Account** button and confirming that you want to close your account.
 
 ## Configurations
-### Creating and managing configurations
+### Create and Manage Configs
 There are two ways to create and manage your configs.
 
 1. From the Dashboard
