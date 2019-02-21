@@ -10,10 +10,6 @@
     <a href="https://remoteconfigs.com">
       Website
     </a>
-    <span> | </span>
-    <a href="https://community.remoteconfigs.com">
-      Community
-    </a>
   </h3>
 </div>
 
@@ -33,7 +29,7 @@
 * [General](#general)
     * [Account](#account)
         * [Sign Up](#sign-up)
-        * [Sign Ip](#sign-in)
+        * [Sign In](#sign-in)
         * [Forgot Password](#forgot-password)
         * [Billing](#billing)
         * [Profile](#profile)
@@ -59,12 +55,12 @@ The base API URL is:
 api.remoteconfigs.com
 ```
 ## Authentication
-In order to use the of RemoteConfigs, you will need to generate an API key. The API key is used to authenticate your requests.
+In order to use your app configurations in RemoteConfigs, you will need to generate an API key. The API key is used to authenticate your requests.
 **The API key is sent in the header of your request with the key `apikey`**
 
 e.g. `"apikey" : "RC_a16eff3197f678ad543c55c99b9a5eb71926c7ca"`
 
-To generate an API key, go to the **API Keys** page from your Dashboard (you will need to be signed into RemoteConfigs).
+To generate an API key, go to the **API Keys** page from your Dashboard, after signing in.
 
 ## Testing and Available Endpoints
 The <a href="https://api.remoteconfigs.com">API Testing Page</a> allows users to test the requests and responses of the RemoteConfigs API endpoints.
@@ -78,16 +74,16 @@ Clicking on the `/Configuration` row will expand to show more details about the 
 # General
 ## Account
 ### Sign Up
-To sign up with RemoteConfigs is a very simple process. We'll even give you 5 settings for free and you don't have to provide any credit card details when you sign up.
+To sign up with RemoteConfigs is a very simple process. _We'll even give you 5 settings for free and you don't have to provide any credit card details when you sign up._
 
 Follow these steps to get started with RemoteConfigs for the first time:
 1. Go to the <a href="https://remoteconfigs.com/Home/Signup">Sign Up Page</a>.
-2. Complete the form and make sure to read and accept the Terms of Use and Privacy Policy.
-3. Click the `Sign Up` button.
-4. Check your mailbox for the verification email and click the `Activate Account` button or link in the email.
+2. Complete the form, remember your password, and make sure to read and accept the Terms of Use and Privacy Policy.
+3. Click the **Sign Up** button.
+4. Check your mailbox for the verification email and click the **Activate Account** button or link in the email.
 5. You will now be redirected to a form where you will have to enter the password you chose earlier.
-6. Click the `Verify Email Address` button.
-7. Great! Your email account has not been verified and you are able to sin into RemoteConfigs.
+6. Click the **Verify Email Address** button.
+7. Great! Your email address has been verified and you are now able to sign into RemoteConfigs.
 
 See [Sign In](#sign-in) for more details.
 
@@ -97,22 +93,22 @@ Signing into RemoteConfigs is easy, all you need is the email address you used t
 ### Forgot Password
 If, for some mysterious reason, you are unable to remember your password and would like to reset it, all you need to do is follow these steps:
 
-1. Go to the <a href="https://remoteconfigs.com/Home/ForgotPassword">Forgot Password Page</a> or on the Sign In page, click the `Forgot your Password?` link at the bottom of the form.
-2. On the Forgot Password page, enter your email address and click the `Send Reset Email` button.
+1. Go to the <a href="https://remoteconfigs.com/Home/ForgotPassword">Forgot Password Page</a> or on the Sign In page, click the **Forgot your Password?** link at the bottom of the form.
+2. On the Forgot Password page, enter your email address and click the **Send Reset Email** button.
 3. Check your mailbox for an email from RemoteConfigs.
 4. Follow the link in the email and enter a new password.
-5. Click the `Reset Password` button.
+5. Click the **Reset Password** button.
 
 Your password has now been changed and can be used to sign in.
 
 ### Billing
-To view your billing information, go to Settings, then click on the Billing tab.
+To view your billing information, go to **Settings**, then click on the Billing tab.
 Under the **Payment Methods** section you'll see your credit and debit cards as well as which card is your default. You are also able to add and remove cards.
 
-Under the **Billing History** section you'll see a list of invoices along with their statuses. You are also able to view and download your invoices.
+Under the **Billing History** section you'll see a list of invoices along with their statuses. You are also able to view and download your invoices from there.
 
 ### Profile
-If you would like to make changes to your profile, click on the cog in the top-right corner of the page after you have signed in, then click on `Settings`.
+If you would like to make changes to your profile, click on the cog in the top-right corner of the page after you have signed in, then click on **Settings**.
 By default, you will be on the Profile tab, from there you are currently only able to make the following changes:
 
 * Change your First and Last names
@@ -123,21 +119,13 @@ By default, you will be on the Profile tab, from there you are currently only ab
 **WARNING** **_Only close your account when you are certain that there are no applications that make use of your RemoteConfigs configurations. You will lose your API keys and all information associated with your account._**
 
 To close your account, first go to Settings by clicking on the cof in the top-right corner of any page after you have signed in.
-When you are on the Settings page, you can close your account by clicking the `Close Account` button and confirming that you want to close your account.
+When you are on the Settings page, you can close your account by clicking the **Close Account** button and confirming that you want to close your account.
 
 ## Configurations
-### Creating a Config
-There are 2 ways to create a config:
+### Creating and managing configurations
+There are two ways to create and manage your configs.
 
 1. From the Dashboard
-    1.1 Click the `Create` button on the **New Configuration** card.
-    1.2 Give your config a name and short description.
-    1.3 Add the settings for your config. A config's settings is a list of key-value pairs.
-    1.4 Once you are done adding settings to the config, click the `Create Configuration` button. 
-
 2. Using the API
-    * see the [API](#api) docs for more information on authenticating and the available endpoints.
-
-### Managing a Config
-To manage a config, click on the `Manage Configuration` button for the config you want to manage, on the Dashboard.
-You will now be able to make changes to the configuration.
+  * All CRUD operations are available through the API. See the [API](#api) section for more information.
+  
