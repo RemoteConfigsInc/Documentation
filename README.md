@@ -1,4 +1,4 @@
-<img src="https://remoteconfigs.com/src/img/Remoteconfig_final.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;"/>
+<img src="https://remoteconfigs.com/app/images/logo.svg" style="display: block; margin-left: auto; margin-right: auto; height: 80px; color: #BF2026;"/>
 <div align="center">
   Take the pain out of managing all your app configurations that are scattered all over the Internet. With RemoteConfigs, you can manage all your app configurations from a central dashboard and reference them in your applications using our simple REST API.
 </div>
